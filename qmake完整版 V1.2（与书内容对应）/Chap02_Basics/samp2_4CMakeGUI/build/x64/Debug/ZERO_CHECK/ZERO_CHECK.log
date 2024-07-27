@@ -1,0 +1,5 @@
+﻿  Checking Build System
+  CMake is re-running because D:/Qt6Book/SamplesV5/Chap02_Basics/samp2_4CMakeGUI/build/CMakeFiles/generate.stamp dependency file is missing.
+CUSTOMBUILD : CMake error : The source directory "D:/Qt6Book/SamplesV5/Chap02_Basics/samp2_4CMakeGUI/source" does not exist.
+  Specify --help for usage, or press the help button on the CMake GUI.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): error MSB8066: “D:\Qt6Book\SamplesV5\Chap02_Basics\samp2_4CMakeGUI\build\CMakeFiles\e7d922b7099b8ed3d7dff19eca76a364\generate.stamp.rule”的自定义生成已退出，代码为 1。

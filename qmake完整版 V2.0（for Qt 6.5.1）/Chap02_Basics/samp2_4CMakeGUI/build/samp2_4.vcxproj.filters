@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="G:\Qt6Book\SamplesV6_Qt6.5\Chap02_Basics\samp2_4CMakeGUI\build\samp2_4_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Qt6Book\SamplesV6_Qt6.5\Chap02_Basics\samp2_4CMakeGUI\source\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Qt6Book\SamplesV6_Qt6.5\Chap02_Basics\samp2_4CMakeGUI\source\dialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Qt6Book\SamplesV6_Qt6.5\Chap02_Basics\samp2_4CMakeGUI\build\samp2_4_autogen\EWIEGA46WW\qrc_res.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Qt6Book\SamplesV6_Qt6.5\Chap02_Basics\samp2_4CMakeGUI\build\samp2_4_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="G:\Qt6Book\SamplesV6_Qt6.5\Chap02_Basics\samp2_4CMakeGUI\source\dialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\Qt6Book\SamplesV6_Qt6.5\Chap02_Basics\samp2_4CMakeGUI\build\samp2_4_autogen\include_Debug\ui_dialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\Qt6Book\SamplesV6_Qt6.5\Chap02_Basics\samp2_4CMakeGUI\build\samp2_4_autogen\include_Release\ui_dialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="G:\Qt6Book\SamplesV6_Qt6.5\Chap02_Basics\samp2_4CMakeGUI\build\CMakeFiles\af69e6502f717d733e204b313dab7b3c\autouic_(CONFIG).stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\Qt6Book\SamplesV6_Qt6.5\Chap02_Basics\samp2_4CMakeGUI\build\CMakeFiles\edaa91110013fd75b14db8afd019b02d\qrc_res.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\Qt6Book\SamplesV6_Qt6.5\Chap02_Basics\samp2_4CMakeGUI\source\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="G:\Qt6Book\SamplesV6_Qt6.5\Chap02_Basics\samp2_4CMakeGUI\source\dialog.ui" />
+    <None Include="G:\Qt6Book\SamplesV6_Qt6.5\Chap02_Basics\samp2_4CMakeGUI\source\res.qrc" />
+    <None Include="G:\Qt6Book\SamplesV6_Qt6.5\Chap02_Basics\samp2_4CMakeGUI\build\samp2_4_autogen\autouic_Debug.stamp" />
+    <None Include="G:\Qt6Book\SamplesV6_Qt6.5\Chap02_Basics\samp2_4CMakeGUI\build\samp2_4_autogen\autouic_Release.stamp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{742028B8-0150-32BF-9D35-3C045BCA61FD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{EBDC7C94-9B20-349B-B824-EBEB8DEE4856}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{42657768-FA39-3270-A975-CEA8C144C51B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

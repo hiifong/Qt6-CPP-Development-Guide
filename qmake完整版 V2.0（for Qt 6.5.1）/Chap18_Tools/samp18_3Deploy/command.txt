@@ -1,0 +1,1 @@
+D:\Qt\6.5.1\mingw_64\bin\windeployqt --no-quick-import --no-translations --no-virtualkeyboard --no-system-d3d-compiler MusicPlayer.exe

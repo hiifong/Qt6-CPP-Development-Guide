@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(1967,5): warning : The referenced project 'D:\Qt6Book\SamplesV5\Chap02_Basics\samp2_4CMakeGUI\build\ZERO_CHECK.vcxproj' does not exist.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(1967,5): warning : The referenced project 'D:\Qt6Book\SamplesV5\Chap02_Basics\samp2_4CMakeGUI\build\samp2_4.vcxproj' does not exist.
+  Building Custom Rule D:/Qt6Book/SamplesV5/Chap02_Basics/samp2_4CMakeGUI/source/CMakeLists.txt
+  CMake is re-running because D:/Qt6Book/SamplesV5/Chap02_Basics/samp2_4CMakeGUI/build/CMakeFiles/generate.stamp dependency file is missing.
+CUSTOMBUILD : CMake error : The source directory "D:/Qt6Book/SamplesV5/Chap02_Basics/samp2_4CMakeGUI/source" does not exist.
+  Specify --help for usage, or press the help button on the CMake GUI.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): error MSB8066: “D:\Qt6Book\SamplesV5\Chap02_Basics\samp2_4CMakeGUI\source\CMakeLists.txt”的自定义生成已退出，代码为 1。

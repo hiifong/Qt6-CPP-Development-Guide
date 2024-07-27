@@ -1,0 +1,10 @@
+^D:\QT6BOOK\SAMPLESV5\CHAP02_BASICS\SAMP2_4CMAKEGUI\SOURCE\CMAKELISTS.TXT
+setlocal
+D:\Qt\Tools\CMake_64\bin\cmake.exe -SD:/Qt6Book/SamplesV5/Chap02_Basics/samp2_4CMakeGUI/source -BD:/Qt6Book/SamplesV5/Chap02_Basics/samp2_4CMakeGUI/build --check-stamp-file D:/Qt6Book/SamplesV5/Chap02_Basics/samp2_4CMakeGUI/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

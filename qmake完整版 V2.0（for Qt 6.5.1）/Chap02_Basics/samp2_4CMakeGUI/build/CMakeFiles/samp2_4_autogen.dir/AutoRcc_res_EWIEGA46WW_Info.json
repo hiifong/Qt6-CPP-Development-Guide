@@ -1,0 +1,23 @@
+{
+	"BUILD_DIR" : "G:/Qt6Book/SamplesV6_Qt6.5/Chap02_Basics/samp2_4CMakeGUI/build/samp2_4_autogen",
+	"CMAKE_BINARY_DIR" : "G:/Qt6Book/SamplesV6_Qt6.5/Chap02_Basics/samp2_4CMakeGUI/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "G:/Qt6Book/SamplesV6_Qt6.5/Chap02_Basics/samp2_4CMakeGUI/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "G:/Qt6Book/SamplesV6_Qt6.5/Chap02_Basics/samp2_4CMakeGUI/source",
+	"CMAKE_SOURCE_DIR" : "G:/Qt6Book/SamplesV6_Qt6.5/Chap02_Basics/samp2_4CMakeGUI/source",
+	"INCLUDE_DIR" : "G:/Qt6Book/SamplesV6_Qt6.5/Chap02_Basics/samp2_4CMakeGUI/build/samp2_4_autogen/include",
+	"INCLUDE_DIR_Debug" : "G:/Qt6Book/SamplesV6_Qt6.5/Chap02_Basics/samp2_4CMakeGUI/build/samp2_4_autogen/include_Debug",
+	"INCLUDE_DIR_Release" : "G:/Qt6Book/SamplesV6_Qt6.5/Chap02_Basics/samp2_4CMakeGUI/build/samp2_4_autogen/include_Release",
+	"INPUTS" : [],
+	"LOCK_FILE" : "G:/Qt6Book/SamplesV6_Qt6.5/Chap02_Basics/samp2_4CMakeGUI/build/CMakeFiles/samp2_4_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : true,
+	"OPTIONS" : [ "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "D:/Qt/6.5.1/msvc2019_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "G:/Qt6Book/SamplesV6_Qt6.5/Chap02_Basics/samp2_4CMakeGUI/build/CMakeFiles/samp2_4_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
+	"SETTINGS_FILE_Debug" : "G:/Qt6Book/SamplesV6_Qt6.5/Chap02_Basics/samp2_4CMakeGUI/build/CMakeFiles/samp2_4_autogen.dir/AutoRcc_res_EWIEGA46WW_Used_Debug.txt",
+	"SETTINGS_FILE_Release" : "G:/Qt6Book/SamplesV6_Qt6.5/Chap02_Basics/samp2_4CMakeGUI/build/CMakeFiles/samp2_4_autogen.dir/AutoRcc_res_EWIEGA46WW_Used_Release.txt",
+	"SOURCE" : "G:/Qt6Book/SamplesV6_Qt6.5/Chap02_Basics/samp2_4CMakeGUI/source/res.qrc",
+	"VERBOSITY" : 0
+}
